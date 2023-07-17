@@ -9,6 +9,6 @@ export const Marking = ({ children }) => {
   );
 };
 
-Layout.propTypes = {
+Marking.propTypes = {
    children: PropTypes.any.isRequired,
 };
